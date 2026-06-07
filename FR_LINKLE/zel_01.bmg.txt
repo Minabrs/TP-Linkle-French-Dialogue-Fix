@@ -9905,7 +9905,7 @@
         "index": "0x465",
         "attributes": "1846000021000000ff00000013000400",
         "text": [
-            "Mais si tu nous es revenu en vie, ",
+            "Mais si tu nous es revenue en vie, ",
             "il y a des chances qu'eux aussi..."
         ]
     },
