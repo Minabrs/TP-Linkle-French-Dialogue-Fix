@@ -1013,7 +1013,7 @@
         "index": "0x6e",
         "attributes": "13f7000021000000ff00000015090400",
         "text": [
-            "Oh, tu t'es donné la peine de le",
+            "Oh, tu t'es donnée la peine de le",
             "chercher pour moi? {1a07000007000a}Merci ",
             "beaucoup!"
         ]
@@ -1069,7 +1069,7 @@
         "index": "0x74",
         "attributes": "13fd000021000000ff00000c0a000400",
         "text": [
-            "Comment as-tu deviné? Tu es allé",
+            "Comment as-tu deviné? Tu es allée",
             "le chercher exprès pour moi?"
         ]
     },
@@ -1564,7 +1564,7 @@
         "attributes": "143400001f000000ff00020000000400",
         "text": [
             "{1a07ff0001004b}... Peuh!",
-            "Quelle honte, il l'a loupée..."
+            "Quelle honte, elle l'a loupée..."
         ]
     },
     {
@@ -1572,7 +1572,7 @@
         "index": "0xac",
         "attributes": "143500001f000000ff00000000000400",
         "text": [
-            "{1a09030000000006ea}{1a07ff0001004b}Me dites pas qu'il n'est pas capable de {1a06ff000001}laisser",
+            "{1a09030000000006ea}{1a07ff0001004b}Me dites pas qu'elle n'est pas capable de {1a06ff000001}laisser",
             "{1a0500000b} enfoncé un petit instant et de relâcher{1a06ff000000}?"
         ]
     },
@@ -1625,7 +1625,7 @@
         "index": "0xb2",
         "attributes": "143b00001f000000ff00000000000400",
         "text": [
-            "{1a09030000000006eb}{1a07ff0001004b}Je suppose que c'est celui où il {1a06ff000001}vise avec {1a0500000d}",
+            "{1a09030000000006eb}{1a07ff0001004b}Je suppose que c'est celui où elle {1a06ff000001}vise avec {1a0500000d}",
             "{1a06ff000000}et {1a06ff000001}appuie sur {1a0500000a}{1a06ff000000}..."
         ]
     },
@@ -3564,7 +3564,7 @@
         "attributes": "151b000024000000ff0003000a010400",
         "text": [
             ".{1a070000070003}.{1a070000070003}.{1a07000007000a} Ah, c'est toi, {1a05000000}...",
-            "{1a07000007000a}Je ne t'ai pas vu entrer{1a070000070003}.{1a070000070003}.{1a070000070003}."
+            "{1a07000007000a}Je ne t'ai pas vue entrer{1a070000070003}.{1a070000070003}.{1a070000070003}."
         ]
     },
     {
@@ -8043,7 +8043,7 @@
         "index": "0x38d",
         "attributes": "173d000023000000ff00002803000400",
         "text": [
-            "Je t'ai vu faire..."
+            "Je t'ai vue faire..."
         ]
     },
     {
@@ -9595,7 +9595,7 @@
         "index": "0x442",
         "attributes": "17f2000022000000ff00000006000400",
         "text": [
-            "Ah, tu es allé chercher ce que ",
+            "Ah, tu es allée chercher ce que ",
             "je voulais t'offrir! {1a07000007000a}Merci..."
         ]
     },
@@ -11013,7 +11013,7 @@
         "text": [
             "{1a05000022} est une fille elle",
             "aussi, alors il faut que tu sois",
-            "gentil et attentionné avec elle..."
+            "gentille et attentionnée avec elle..."
         ]
     },
     {
