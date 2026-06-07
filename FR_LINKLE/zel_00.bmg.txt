@@ -13493,7 +13493,7 @@
         "index": "0x5df",
         "attributes": "07d4000015000000ff00000000000400",
         "text": [
-            "{1a0600000801}Je veux me changer en loup.",
+            "{1a0600000801}Je veux me changer en louve.",
             "{1a0600000802}Je veux parler avec toi."
         ]
     },
@@ -13512,7 +13512,7 @@
         "attributes": "07d60000150d0000ff0000001f1f0400",
         "text": [
             "Et tu comptes faire comment pour",
-            "te changer en loup sans pouvoirs",
+            "te changer en louve sans pouvoirs",
             "magiques...? Laisse-moi rire!"
         ]
     },
@@ -15129,7 +15129,7 @@
         "text": [
             "Mais si tu allais dans la {1a06ff000001}forêt de",
             "Firone{1a06ff000000}, là où tu fus changée en",
-            "loup... Si tu ravivais la lumière",
+            "louve... Si tu ravivais la lumière",
             "de l'{1a06ff000001}Esprit{1a06ff000000} qui y réside..."
         ]
     },
